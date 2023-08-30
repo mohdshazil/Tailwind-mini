@@ -1,2 +1,4 @@
 # Tailwind-mini
-HOSTED LINK :- 
+HOSTED LINK :- https://mohdshazil.github.io/Tailwind-mini/
+
+![Uploading Screenshot (161).png…]()
